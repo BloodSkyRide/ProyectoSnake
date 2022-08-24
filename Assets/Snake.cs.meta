@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5721cdd013089c748819c6cccf71d4c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - block: {instanceID: 0}
+  - cabezaMaterial: {fileID: 2100000, guid: 5a7245303e11c4f4ba33e03617484d4b, type: 2}
+  - colaMaterial: {fileID: 2100000, guid: 7aaa033d5e05f0d4484cac64e4ba4cdc, type: 2}
+  - paredesMaterial: {fileID: 2100000, guid: 2ff6a89cb3b490843977938b8e76af08, type: 2}
+  - comidaMaterial: {fileID: 2100000, guid: afb0ca669b5f4634c9ede55bc49671e7, type: 2}
+  - coca: {fileID: 2100000, guid: 5a7245303e11c4f4ba33e03617484d4b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
